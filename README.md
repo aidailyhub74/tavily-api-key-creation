@@ -5,7 +5,7 @@
 1. **Create an account** on [Tavily](https://app.tavily.com/) or **sign in** if you already have one.
 2. Scroll down to the **API Keys** section and click on copy button to copy the key.
 
-> 💡 Once you click copy button, a Tavily API Key will be copied automatically.
+> 💡 Once you click copy button, Tavily API Key will be copied automatically.
 
 🎥 Watch the step-by-step video: [Get Tavily API Key](https://www.youtube.com/watch?v=vWMVZNXpB60)
 
