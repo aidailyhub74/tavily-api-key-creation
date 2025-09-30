@@ -7,7 +7,7 @@
 
 > 💡 Once you click copy button, Tavily API Key will be copied automatically.
 
-🎥 Watch the step-by-step video: [Get Tavily API Key](https://www.youtube.com/watch?v=vWMVZNXpB60)
+🎥 Watch the step-by-step video: [Get Tavily API Key](https://www.youtube.com/watch?v=hnfprm6T7wM)
 
 ## 💡 Follow us for more such content:
 - WhatsApp Channel 👉[Link](https://whatsapp.com/channel/0029VbAYVpaHQbS74BUruk0X)
